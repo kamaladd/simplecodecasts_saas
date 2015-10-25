@@ -11,5 +11,26 @@
   background:     -ms-linear-gradient(90deg, #00c6ff 10%, #0072ff 90%); /* IE10 */
   background:      -o-linear-gradient(90deg, #00c6ff 10%, #0072ff 90%); /* Opera 11.10+ */
   background:         linear-gradient(90deg, #00c6ff 10%, #0072ff 90%); /* W3C */
-  color: white;
+
+}
+
+.logo-color{
+    color: #D1F4FF;
+    
+}
+.logo-color:hover{
+    color: white;
+    
+}
+.menu-color{
+    
+    color: #D1F4FF;
+}
+.menu-color:hover{
+    
+    color: white;
+}
+body {
+    background-image: 
+    url('http://cdni.condenast.co.uk/1920x1280/g_j/hayman-island-condenasttraveller-1-14mar14-pr_b.jpg');
 }
